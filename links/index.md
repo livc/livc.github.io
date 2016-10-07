@@ -7,7 +7,7 @@ comments: yes
 # 个人
 
 
-- [我是个网站](https://www.amt-zhanghaoran.cn/) 蛋神，信息安全，Geek
+- [我是个网站](https://blog.rabit.pw) 蛋神，信息安全，Geek
 - [迟没有的回收站](http://chimingyu.com/) 信息安全，数据挖掘
 - [Yizhen's blog](http://yizhen-blog.com/) 哈工大，NLP
 - [TylerX](http://tylerx.net/) 东北大学ACM队史第一枚金牌，2016年ACM世界总决赛（World Final）选手

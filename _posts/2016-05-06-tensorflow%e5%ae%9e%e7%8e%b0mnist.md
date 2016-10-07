@@ -202,7 +202,7 @@ print(sess.run(accuracy, feed_dict={x: mnist.test.images, y_: mnist.test.labels}
   
   <p>
     我们也需要加入一个额外的偏置量（<em>bias</em>），因为输入往往会带有一些无关的干扰量。因此对于给定的输入图片 x 它代表的是数字 i 的证据可以表示为:
-  </p> \(\text{evidence}_i = \sum_j W_{i,~ j} x_j + b_i\) 
+  </p> $$ \text{evidence}_i = \sum_j W_{i,~ j} x_j + b_i $$
   
   <p>
     Wi代表权重，bi代表数字 i 类的偏置量，j 代表给定图片 x 的像素索引用于像素求和。

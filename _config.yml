@@ -14,14 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 世界因我不同
-email: livc@outlook.com
+author: Zhao Li
+highlighter: rouge
 description: > # this means to ignore newlines until "baseurl:"
   Writing and thinking. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://livc.io" # the base hostname & protocol for your site
-twitter_username: livc95
-github_username:  livc
 
 # Build settings
 markdown: kramdown
-theme: minima

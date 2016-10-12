@@ -4,8 +4,6 @@ layout: page
 comments: yes
 ---
 
-# About me
-
 属性INTJ，热爱开源与分享。
 
 热衷于新奇事物，对模块化、去中心化、区块链、人工智能等前沿技术有浓厚兴趣。

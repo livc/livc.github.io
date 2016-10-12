@@ -1,3 +1,9 @@
+----
+-title: About me
+-layout: page
+-comments: yes
+----
+
 # About me
 
 属性INTJ，热爱开源与分享。

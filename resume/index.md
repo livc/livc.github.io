@@ -43,7 +43,7 @@ Email：livc@outlook.com
 - 2016年6月 软件学院奖励基金 科技竞赛奖
 - 2016年6月 东北大学移动应用创新竞赛 二等奖
 - 2016年5月 第18届[国际大学生数学建模竞赛](http://baike.baidu.com/view/2043245.htm) 一等奖（Meritorious Winner)
-- 2016年3月 第七届[蓝桥杯](http://baike.baidu.com/link?url=O1SYgn5n34Ko9aqSQ94NIwaP9_pOwcd2kKyhpCK8gG2bFKs6Wdl4D_9V-N4TGss0anVk0EBC2Op6_Cg7zoOz3a93k63j_JJm3NWZpC9ZtcnZqBj5230ef-UlpH-vAaR6)C/C++程序设计本科A组 三等奖
+- 2016年3月 第七届[蓝桥杯](http://baike.baidu.com/link?url=O1SYgn5n34Ko9aqSQ94NIwaP9_pOwcd2kKyhpCK8gG2bFKs6Wdl4D_9V-N4TGss0anVk0EBC2Op6_Cg7zoOz3a93k63j_JJm3NWZpC9ZtcnZqBj5230ef-UlpH-vAaR6)C/C++程序设计本科A组（辽宁赛区） 三等奖
 - 2015年12月 东北大学学业特长优秀个人
 - 2015年11月 东北大学数学建模挑战赛 二等奖
 - 2015年11月 东北大学优秀学生奖学金 三等奖

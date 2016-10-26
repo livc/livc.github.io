@@ -10,6 +10,17 @@ comments: yes
 
 吉他、口琴、葫芦丝，都能玩的起来。
 
+我活跃在以下社交平台，常用ID为livc或livc95（livc是我姓名的双拼）：
+
+微博: [@livc95](http://weibo.com/livc95)
+V2EX: [@livc](https://www.v2ex.com/member/livc)
+GitHub: [@livc](https://github.com/livc)
+Twitter: [@livc95](https://twitter.com/livc95)
+Telegram: [@livc95](https://telegram.me/livc95)
+Instagram: [@livc95](https://www.instagram.com/livc95)
+
+
+
 ## 个人兴趣
 
 ### 喜欢读书

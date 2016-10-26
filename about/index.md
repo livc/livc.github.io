@@ -14,13 +14,13 @@ comments: yes
 
 微博: <http://weibo.com/livc95>
 
-V2EX: <https://www.v2ex.com/member/livc>
-
 GitHub: <https://github.com/livc>
 
 Twitter: <https://twitter.com/livc95>
 
 Telegram: <https://telegram.me/livc95>
+
+V2EX: <https://www.v2ex.com/member/livc>
 
 Instagram: <https://www.instagram.com/livc95>
 

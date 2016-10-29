@@ -55,4 +55,4 @@ Email：livc@outlook.com
 # 其他
 - GitHub: <https://github.com/livc>
 - 2016年5月入选东北大学“特色人才培养计划”(选修课免修)
-- 东北大学微软俱乐部创始人之一（首届副主席）、微软校园菁英（Microsoft Student Partner, MSP），代表东大参加第15届微软学生夏令营
+- 东北大学微软俱乐部创始人之一（首届副主席）、[微软校园精英（Microsoft Student Partner, MSP）](https://www.microsoft.com/china/msdn/events/student/msp/msp.html)，代表东大参加第15届微软学生夏令营

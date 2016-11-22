@@ -31,12 +31,6 @@ Email：livc@outlook.com
 	- 大二时参加第40届国际大学生程序设计竞赛亚洲区域赛沈阳站、东亚洲大陆子赛区总决赛
 (EC-Final上海站）比赛
 
-# IT技能
-- 熟悉C/C++、Python、Java、Golang
-- 熟悉Linux操作系统、Git、Markdown
-- 熟悉Ipython、Jupyter Notebook等机器学习工具和相关包（Numpy、Pandas、scikit-learn等），了解常用机器学习算法，接触过Google深度学习框架TensorFlow
-- 能用Google、Stack Overflow、Mailing List等平台解决遇到的问题
-
 # 获奖情况
 - 2016年11月 [iGEM国际遗传工程机器竞赛](https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine) 金奖
 - 2016年10月 全国大学生数学建模竞赛（辽宁赛区） 二等奖

@@ -7,8 +7,6 @@ title: 简历（李钊）
 
 Email：livc@outlook.com
 
-主页：<https://livc.io>
-
 # 研究兴趣
 
 机器学习与深度学习
@@ -34,7 +32,7 @@ Email：livc@outlook.com
 # 获奖情况
 - 2016年11月 [iGEM国际遗传工程机器竞赛](https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine) 金奖
 - 2016年10月 全国大学生数学建模竞赛（辽宁赛区） 二等奖
-- 2016年8月 2016微软学生俱乐部优秀officer 微软亚洲研究院
+- 2016年8月 微软学生俱乐部优秀officer 微软亚洲研究院
 - 2016年6月 软件学院奖励基金 科技竞赛奖
 - 2016年6月 东北大学移动应用创新竞赛 二等奖
 - 2016年5月 [国际大学生数学建模竞赛](https://en.wikipedia.org/wiki/Mathematical_Contest_in_Modeling) 一等奖（Meritorious Winner)

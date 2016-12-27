@@ -27,7 +27,6 @@ Email：livc@outlook.com
 	- 学习DBSCAN、K-means等聚类算法，阈值分割、分水岭算法等图像分割算法
 	- 在VTK体绘制管线中使用光线投射法、纹理映射法等方式，调节梯度不透明度函数、颜色传输函数、光照与投影等，优化三维重建效果
 - 2014年11月 - 2016年5月 [ACM](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)校队  
-	学习信息学竞赛算法，参加程序设计竞赛，在解题的同时提升独立思考能力、算法设计能力、团队合作能力。
 	- 大一时参加ACM程序设计东北四省赛与全国邀请赛，均获三等奖
 	- 大二时参加第40届国际大学生程序设计竞赛亚洲区域赛沈阳站、东亚洲大陆子赛区总决赛
 (EC-Final上海站）比赛

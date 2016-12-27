@@ -1,7 +1,7 @@
 ---
 title: Google APAC 2017 Problem A. Lazy Spelling Bee（模拟）
 layout: post
-permalink: /166
+permalink: /164
 categories:
   - 算法
 ---

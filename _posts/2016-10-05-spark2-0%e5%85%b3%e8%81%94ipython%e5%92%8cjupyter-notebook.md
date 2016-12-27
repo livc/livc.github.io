@@ -1,7 +1,7 @@
 ---
 title: Spark2.0关联Ipython和Jupyter Notebook
 layout: post
-permalink: /183
+permalink: /168
 categories:
   - 杂谈
 tags:

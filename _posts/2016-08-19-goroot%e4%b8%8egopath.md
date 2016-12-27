@@ -1,7 +1,7 @@
 ---
 title: GOROOT与GOPATH
 layout: post
-permalink: /165
+permalink: /163
 categories:
   - Go
 tags:

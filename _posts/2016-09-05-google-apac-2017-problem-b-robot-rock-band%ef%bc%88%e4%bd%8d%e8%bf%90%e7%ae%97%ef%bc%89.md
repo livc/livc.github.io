@@ -1,7 +1,7 @@
 ---
 title: Google APAC 2017 Problem B. Robot Rock Band（位运算）
 layout: post
-permalink: /167
+permalink: /165
 categories:
   - 算法
 tags:

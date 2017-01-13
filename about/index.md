@@ -10,7 +10,7 @@ comments: yes
 
 吉他、口琴、葫芦丝，都能玩的起来。
 
-我活跃在以下社交平台，常用ID为livc或livc95（livc是我姓名的双拼）：
+活跃在以下社交平台，常用ID为livc或livc95（livc是我姓名的双拼）：
 
 微博: <http://weibo.com/livc95>
 
@@ -31,7 +31,7 @@ Instagram: <https://www.instagram.com/livc95>
 
 ### 喜欢读书
 
-我每天都会保持一定的阅读时间，因此相对于一些理科生而言，我的阅读量应该是比较大的了，这是我的书单（[豆瓣读书](https://book.douban.com/people/99222473/collect)），如果你和我有同样的兴趣，欢迎沟通讨论，希望我们能产生共鸣。
+我每天都会保持一定的阅读时间，因此相对于一些理科生而言，我的阅读量应该是比较大的了，这是我的书单（[豆瓣读书](https://book.douban.com/people/99222473/collect)），如果和我有同样的兴趣，欢迎沟通讨论，希望我们能产生共鸣。
 
 ### 喜欢民谣
 

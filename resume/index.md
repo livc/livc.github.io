@@ -32,7 +32,7 @@ Email：livc@outlook.com
 (EC-Final上海站）比赛
 
 # 获奖情况
-- 2017年1月 [东北大学第二届学生创新创业“校长奖章”](http://cxzx.neu.edu.cn/SinglePage.aspx?id=817e2e47-3180-4de2-a49d-b3468bb5eefe&newsType=38ddc72a-0f81-4821-ad00-2db7b671d5bc)
+- 2017年1月 [东北大学第二届学生创新创业“校长奖章”](http://cxzx.neu.edu.cn/SinglePage.aspx?id=817e2e47-3180-4de2-a49d-b3468bb5eefe&newsType=38ddc72a-0f81-4821-ad00-2db7b671d5bc)（东北大学学生个人最高荣誉）
 - 2016年11月 [iGEM国际遗传工程机器竞赛](https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine) 金奖
 - 2016年10月 全国大学生数学建模竞赛（辽宁赛区） 二等奖
 - 2016年8月 微软学生俱乐部优秀officer 微软亚洲研究院

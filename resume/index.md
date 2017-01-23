@@ -5,7 +5,7 @@ title: 简历（李钊）
 
 # 联系方式
 
-Email：livc@outlook.com
+Email：livc@protonmail.com
 
 # 研究兴趣
 

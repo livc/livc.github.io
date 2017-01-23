@@ -4,13 +4,11 @@ layout: page
 comments: yes
 ---
 
-属性INTJ，热爱开源与分享。
-
-热衷于新奇事物，对模块化、去中心化、区块链、人工智能等前沿技术有浓厚兴趣。
+属性 INTJ，热爱开源、发现与分享，TED、MOOC 爱好者。
 
 吉他、口琴、葫芦丝，都能玩的起来。
 
-活跃在以下社交平台，常用ID为livc或livc95（livc是我姓名的双拼）：
+活跃在以下社交平台，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：
 
 微博: <http://weibo.com/livc95>
 

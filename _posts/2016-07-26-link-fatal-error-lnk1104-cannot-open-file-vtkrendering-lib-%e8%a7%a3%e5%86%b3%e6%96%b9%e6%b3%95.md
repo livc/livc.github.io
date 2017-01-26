@@ -9,7 +9,8 @@ categories:
 
 CMakeLists.txt
 
-<pre class="brush: cpp; title: ; notranslate" title="">CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+```bash
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
 PROJECT( Chap01 )
 
 FIND_PACKAGE( VTK REQUIRED )
@@ -17,11 +18,12 @@ INCLUDE( ${VTK_USE_FILE} )
 
 ADD_EXECUTABLE( 1.3_TestVTKInstall 1.3_TestVTKInstall.cpp)
 TARGET_LINK_LIBRARIES( 1.3_TestVTKInstall vtkRendering vtkCommon )
-</pre>
+```
 
 最后一行改为：
 
-<pre class="brush: cpp; title: ; notranslate" title="">TARGET_LINK_LIBRARIES( 1.3_TestVTKInstall ${VTK_LIBRARIES} )
-</pre>
+```bash
+TARGET_LINK_LIBRARIES( 1.3_TestVTKInstall ${VTK_LIBRARIES} )
+```
 
 然后重新用Cmake编译，按照书上步骤运行。

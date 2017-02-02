@@ -22,7 +22,7 @@ V2EX: <https://www.v2ex.com/member/livc>
 
 Instagram: <https://www.instagram.com/livc95>
 
-也可以在 [LinkedIn](http://www.linkedin.com/in/zhao-li-655254106?trk=nav_responsive_tab_profile_pic) 上与我建立联系。
+也可以在 [LinkedIn](https://cn.linkedin.com/in/zhao-li-655254106) 上与我建立联系。
 
 
 ## 个人兴趣

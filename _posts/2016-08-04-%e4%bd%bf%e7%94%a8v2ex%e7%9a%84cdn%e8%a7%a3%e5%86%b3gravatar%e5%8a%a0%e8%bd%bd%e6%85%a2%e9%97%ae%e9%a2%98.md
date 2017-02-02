@@ -14,4 +14,4 @@ function my_get_avatar( $avatar ) {
     return $avatar;
 }
 add_filter('get_avatar', 'my_get_avatar');
-``
+```

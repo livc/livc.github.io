@@ -10,13 +10,13 @@ comments: yes
 
 活跃在以下社交平台，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：
 
-```
-微博: http://weibo.com/livc95
-GitHub: https://github.com/livc
-Twitter: https://twitter.com/livc95
-Telegram: https://t.me/livc95
-V2EX: https://www.v2ex.com/member/livc
-Instagram: https://www.instagram.com/livc95
+```bash
+Weibo = 'http://weibo.com/livc95'
+GitHub = 'https://github.com/livc'
+Twitter = 'https://twitter.com/livc95'
+Telegram = 'https://t.me/livc95'
+V2EX = 'https://www.v2ex.com/member/livc'
+Instagram = 'https://www.instagram.com/livc95'
 ```
 
 也可以在 [LinkedIn](https://cn.linkedin.com/in/zhao-li-655254106) 上与我建立联系。

@@ -1,7 +1,6 @@
 ---
 title: About me
 layout: page
-comments: yes
 ---
 
 属性 INTJ，热爱开源、发现与分享，TED、MOOC 爱好者。

@@ -7,13 +7,17 @@ layout: page
 
 吉他、口琴、葫芦丝，都能玩的起来。
 
+如果你希望与我取得联系，推荐的优先级是：
+
+邮件：<zhaoli@protonmail.com>
+Telegram：[@livc](https://t.me/livc95)
+
 活跃在以下社交平台，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：
 
 ```bash
 Weibo = 'http://weibo.com/livc95'
 GitHub = 'https://github.com/livc'
 Twitter = 'https://twitter.com/livc95'
-Telegram = 'https://t.me/livc95'
 V2EX = 'https://www.v2ex.com/member/livc'
 Instagram = 'https://www.instagram.com/livc95'
 ```

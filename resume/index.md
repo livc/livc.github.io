@@ -5,7 +5,7 @@ title: 简历（李钊）
 
 # 联系方式
 
-Email：zhaoli@protonmail.com
+Email：<zhaoli@protonmail.com>
 
 # 教育背景
 

@@ -5,12 +5,11 @@ layout: page
 
 属性 INTJ，热爱开源、发现与分享，TED、MOOC 爱好者。
 
-吉他、口琴、葫芦丝，都能玩的起来。
-
 如果你希望与我取得联系，推荐的优先级是：
 
-邮件：<zhaoli@protonmail.com>
-Telegram：[@livc](https://t.me/livc95)
+E-mail: <zhaoli@protonmail.com>
+
+Telegram: [@livc95](https://t.me/livc95)
 
 活跃在以下社交平台，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：
 

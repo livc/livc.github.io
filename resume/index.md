@@ -33,17 +33,10 @@ Email：<zhaoli@protonmail.com>
 - 2016年11月 [iGEM国际遗传工程机器竞赛](https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine) 金奖
 - 2016年10月 全国大学生数学建模竞赛（辽宁赛区） 二等奖
 - 2016年8月 微软学生俱乐部优秀officer 微软亚洲研究院
-- 2016年6月 软件学院奖励基金 科技竞赛奖
-- 2016年6月 东北大学移动应用创新竞赛 二等奖
 - 2016年5月 [国际大学生数学建模竞赛](https://en.wikipedia.org/wiki/Mathematical_Contest_in_Modeling) 一等奖（Meritorious Winner)
 - 2016年3月 第七届[蓝桥杯](http://baike.baidu.com/link?url=O1SYgn5n34Ko9aqSQ94NIwaP9_pOwcd2kKyhpCK8gG2bFKs6Wdl4D_9V-N4TGss0anVk0EBC2Op6_Cg7zoOz3a93k63j_JJm3NWZpC9ZtcnZqBj5230ef-UlpH-vAaR6)C/C++程序设计本科A组（辽宁赛区） 三等奖
-- 2015年12月 东北大学学业特长优秀个人
-- 2015年11月 东北大学数学建模挑战赛 二等奖
-- 2015年11月 东北大学优秀学生奖学金 三等奖
 - 2015年6月 ACM-ICPC中国·东北地区第九届大学生程序设计竞赛 三等奖
 - 2015年6月 ACM-ICPC中国大学生程序设计邀请赛 三等奖
-- 2015年5月 东北大学CSDN线上编程挑战赛 二等奖
-- 2014年12月 东北大学第四届ACM-ICPC程序设计新星赛 三等奖
 
 # 其他
 - GitHub: <https://github.com/livc>

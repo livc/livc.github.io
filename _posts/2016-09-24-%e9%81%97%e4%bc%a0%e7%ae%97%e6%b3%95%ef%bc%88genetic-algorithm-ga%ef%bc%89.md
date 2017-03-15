@@ -36,7 +36,7 @@ tags:
 
 用二进制模拟染色体序列，以便进行遗传、变异等处理。 
 
-$$  
+$$
 \begin{align*} &
   
 00000000=0\rightarrow L\\ &
@@ -54,7 +54,7 @@ $$
 $$
 
 可知：
-  
+
 $$ \delta=\frac{U-L}{2^{k}-1} $$
 
 #### 解码
@@ -66,9 +66,9 @@ $$ \delta=\frac{U-L}{2^{k}-1} $$
 #### 交配
 
 首先生成一个随机数作为交配点位置，然后在两个个体交配点位置交换部分基因序列，形成两个子个体。
-  
-<img src="https://i1.wp.com/ww1.sinaimg.cn/mw690/9cd77f2ejw1f84z28qr25j20ej08dt8w.jpg" alt="" data-recalc-dims="1" />
-  
+
+<img src="https://i1.wp.com/ww1.sinaimg.cn/mw690/9cd77f2ejw1f84z28qr25j20ej08dt8w.jpg" width="50%" />
+
 如图是交换后四位的结果，形成两个子代染色体。
 
 #### 突变
@@ -78,7 +78,7 @@ $$ \delta=\frac{U-L}{2^{k}-1} $$
 #### 倒位
 
 “倒位运算”是指染色体某正常片段发生180°颠倒
-  
+
 $$
   
 101000\underline {001} \Rightarrow 101000\underline{100}

@@ -5,11 +5,11 @@ layout: page
 
 属性 INTJ，热爱开源、发现与分享，TED、MOOC 爱好者。
 
-如果你希望与我取得联系，推荐的优先级是：
+如果希望与我取得联系，推荐的优先级是：
 
 1. 博客（本站）留言
 2. E-mail: <zhaoli@protonmail.com>
-3. Telegram: [@livc95](https://t.me/livc95) （可能不会回复）
+3. Telegram: [@livc95](https://t.me/livc95) 
 
 活跃在以下社交平台，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：
 

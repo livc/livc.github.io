@@ -11,18 +11,7 @@ layout: page
 2. E-mail: <zhaoli@protonmail.com>
 3. Telegram: [@livc95](https://t.me/livc95) 
 
-活跃在以下社交平台，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：
-
-```bash
-Weibo = 'http://weibo.com/livc95'
-GitHub = 'https://github.com/livc'
-Twitter = 'https://twitter.com/livc95'
-V2EX = 'https://www.v2ex.com/member/livc'
-Instagram = 'https://www.instagram.com/livc95'
-```
-
-也可以在 [LinkedIn](https://cn.linkedin.com/in/zhao-li-655254106) 上与我建立联系。
-
+在各个平台上常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：<https://about.me/zhao_li>
 
 ## 个人兴趣
 

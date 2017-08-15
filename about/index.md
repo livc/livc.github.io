@@ -40,3 +40,5 @@ layout: page
 从大二开始写博客，用的是WordPress，服务器搭在IIS上，后来对Linux熟练一些了改用[lnmp](http://lnmp.org/)+CentOS。然而WordPress作为一个CMS更适合较大型的网站，像我这种没什么访问量的博客显得过于臃肿。于是在16年10月开始采用Jekyll作为后台，搭在了[GitHub](https://github.com/livc/livc.github.io)上，这之前的文章都是从WordPress上导出的，所以可能格式有问题或者代码没有高亮，如果较严重的话可以留言我再去纠正。
 
 为了小绿锁使用了CloudFlare的减速CDN……我换服务器比较频繁（哪有学生优惠用哪个QwQ），所以不想自己用Nginx反代了，花太多时间配环境，不值。
+
+update: 2016 年 10 月

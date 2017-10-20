@@ -3,15 +3,7 @@ title: About me
 layout: page
 ---
 
-属性 INTJ，热爱开源、发现与分享，TED、MOOC 爱好者。
-
-如果希望与我取得联系，推荐的优先级是：
-
-1. 博客（本站）留言
-2. E-mail: <zhaoli@protonmail.com>
-3. Telegram: [@livc95](https://t.me/livc95) 
-
-在各个平台上常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：<https://about.me/zhao_li>
+INTJer，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：<https://about.me/zhao_li>
 
 ## 个人兴趣
 
@@ -41,4 +33,6 @@ layout: page
 
 为了小绿锁使用了CloudFlare的减速CDN……我换服务器比较频繁（哪有学生优惠用哪个QwQ），所以不想自己用Nginx反代了，花太多时间配环境，不值。
 
-update: 2016 年 10 月
+---
+
+Last update: 2016 年 10 月

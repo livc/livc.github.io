@@ -1,19 +1,31 @@
 ---
-title: 世界因我不同
-layout: page
+layout: page_without_author
+title: Zhao Li
 ---
 
-<ul class="listing">
-{% for post in site.posts %}
-  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
-  {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+# Experience
 
+- Research Intern, [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), Baidu Reaserch, Feb. 2017 - Sep. 2017
+- Recommendation Algorithm Intern, Baidu, Oct. 2016 – Jan. 2017
+
+# Awards
+
+- AI learning project excellent lecturer of Baidu Institute of Technology, 2017
+- Best Intern in Institute of Deep Learning of Q2, Baidu, 2017
+- Principal Medal of Innovation and Entrepreneurship(1/10), Northeastern University, 2017
+- Gold Medal, International Genetically Engineered Machine ([iGEM](http://igem.org/Main_Page)) Competition, 2016
+- Meritorious Winner, International Mathematical Contest in Modeling, 2016
+
+# Education
+
+- Oct. 2014 - Present, Bachelor in Software Engineering (Japanese), Northeastern University, Shenyang
+
+
+# Contact
+
+- Email: [zhaoli at protonmail dot com](mailto:zhaoli@protonmail.com)
+- Office: Room 1A-306, SIST Building, ShanghaiTech University
+
+---
+
+Last update: Oct. 2017

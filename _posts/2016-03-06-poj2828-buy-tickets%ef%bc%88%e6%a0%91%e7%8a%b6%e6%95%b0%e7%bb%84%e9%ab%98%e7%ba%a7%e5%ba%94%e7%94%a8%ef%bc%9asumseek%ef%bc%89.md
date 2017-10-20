@@ -1,7 +1,7 @@
 ---
 title: POJ2828 Buy Tickets（树状数组高级应用：sumseek）
 layout: post
-permalink: /89
+permalink: /blog/89
 categories:
   - 算法
 tags:

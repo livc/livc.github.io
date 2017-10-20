@@ -1,7 +1,7 @@
 ---
 title: POJ1012 Joseph（约瑟夫环）
 layout: post
-permalink: /113
+permalink: /blog/113
 categories:
   - 算法
 tags:

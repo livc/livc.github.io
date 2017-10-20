@@ -1,7 +1,7 @@
 ---
 title: Codeforces651B Beautiful Paintings
 layout: post
-permalink: /116
+permalink: /blog/116
 categories:
   - 算法
 ---

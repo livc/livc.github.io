@@ -1,7 +1,7 @@
 ---
 title: Codeforces631C Report
 layout: post
-permalink: /81
+permalink: /blog/81
 categories:
   - 算法
 ---

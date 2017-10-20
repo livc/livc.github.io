@@ -1,7 +1,7 @@
 ---
 title: 'POJ1458 &#038;&#038; HDU1159 Common Subsequence（最长公共子序列 DP）'
 layout: post
-permalink: /119
+permalink: /blog/119
 categories:
   - 算法
 tags:

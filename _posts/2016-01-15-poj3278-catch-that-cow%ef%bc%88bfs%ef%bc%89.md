@@ -1,7 +1,7 @@
 ---
 title: POJ3278 Catch That Cow（BFS）
 layout: post
-permalink: /28
+permalink: /blog/28
 categories:
   - 算法
 tags:

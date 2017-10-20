@@ -1,7 +1,7 @@
 ---
 title: POJ1704 Georgia and Bob（尼姆博弈）
 layout: post
-permalink: /93
+permalink: /blog/93
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: HDU4296 Buildings（贪心）
 layout: post
-permalink: /25
+permalink: /blog/25
 categories:
   - 算法
 tags:

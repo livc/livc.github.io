@@ -1,7 +1,7 @@
 ---
 title: HDU1627 Krypton Factor（DFS）
 layout: post
-permalink: /21
+permalink: /blog/21
 categories:
   - 算法
 tags:

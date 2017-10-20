@@ -1,7 +1,7 @@
 ---
 title: HDU1045 Fire Net（DFS回溯）
 layout: post
-permalink: /23
+permalink: /blog/23
 categories:
   - 算法
 tags:

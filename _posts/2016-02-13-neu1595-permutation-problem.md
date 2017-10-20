@@ -1,7 +1,7 @@
 ---
 title: NEU1595 Permutation Problem
 layout: post
-permalink: /45
+permalink: /blog/45
 categories:
   - 算法
 ---

@@ -1,7 +1,7 @@
 ---
 title: UESTC1217 The Battle of Chibi（DP 树状数组）
 layout: post
-permalink: /52
+permalink: /blog/52
 categories:
   - 算法
 tags:

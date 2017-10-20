@@ -1,7 +1,7 @@
 ---
 title: HDU2199 Can you solve this equation?（二分）
 layout: post
-permalink: /71
+permalink: /blog/71
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Vim中添加Go的语法高亮
 layout: post
-permalink: /166
+permalink: /blog/166
 categories:
   - Go
 tags:

@@ -1,7 +1,7 @@
 ---
 title: NEU1685 All Pair Shortest Path（bfs+set优化）
 layout: post
-permalink: /54
+permalink: /blog/54
 categories:
   - 算法
 tags:

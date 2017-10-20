@@ -1,7 +1,7 @@
 ---
 title: microRNA学习笔记（二）——microRNA的生物信息学研究方法
 layout: post
-permalink: /59
+permalink: /blog/59
 categories:
   - 生物信息学
 tags:

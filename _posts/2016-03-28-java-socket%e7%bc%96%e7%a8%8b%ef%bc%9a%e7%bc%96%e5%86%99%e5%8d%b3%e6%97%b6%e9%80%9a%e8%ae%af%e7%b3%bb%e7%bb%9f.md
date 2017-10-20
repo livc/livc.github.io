@@ -1,7 +1,7 @@
 ---
 title: JAVA Socket编程：编写即时通讯系统
 layout: post
-permalink: /126
+permalink: /blog/126
 categories:
   - Java
 tags:

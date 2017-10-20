@@ -1,7 +1,7 @@
 ---
 title: 'POJ3087 Shuffle&#8217;m Up（模拟）'
 layout: post
-permalink: /32
+permalink: /blog/32
 categories:
   - 算法
 ---

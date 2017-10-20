@@ -1,7 +1,7 @@
 ---
 title: NEU1252 AND operation at intervals（线段树或二进制）
 layout: post
-permalink: /11
+permalink: /blog/11
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: POJ2234 Matches Game（尼姆博弈）
 layout: post
-permalink: /99
+permalink: /blog/99
 categories:
   - 算法
 tags:

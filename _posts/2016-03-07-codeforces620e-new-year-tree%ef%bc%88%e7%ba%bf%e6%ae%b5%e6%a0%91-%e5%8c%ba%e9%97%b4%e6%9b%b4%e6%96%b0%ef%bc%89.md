@@ -1,7 +1,7 @@
 ---
 title: Codeforces620E New Year Tree（dfs序+线段树 区间更新）
 layout: post
-permalink: /90
+permalink: /blog/90
 categories:
   - 算法
 tags:

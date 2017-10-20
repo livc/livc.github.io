@@ -2,7 +2,7 @@
 id: 217
 title: HDU1539 Shredding Company（DFS）
 layout: post
-permalink: /22
+permalink: /blog/22
 categories:
   - 算法
 tags:

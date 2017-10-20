@@ -1,7 +1,7 @@
 ---
 title: miRDeep2.0.0.8 RNAfold was/is not installed properly 解决方法
 layout: post
-permalink: /157
+permalink: /blog/157
 categories:
   - 生物信息学
 tags:

@@ -1,7 +1,7 @@
 ---
 title: POJ2299 Ultra-QuickSort（离散化 树状数组）
 layout: post
-permalink: /47
+permalink: /blog/47
 categories:
   - 算法
 tags:

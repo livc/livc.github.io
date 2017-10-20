@@ -1,7 +1,7 @@
 ---
 title: HDU 1051 Wooden Sticks（贪心）
 layout: post
-permalink: /7
+permalink: /blog/7
 categories:
   - 算法
 tags:

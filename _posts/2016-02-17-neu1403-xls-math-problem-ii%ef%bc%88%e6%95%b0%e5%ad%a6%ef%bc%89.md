@@ -1,7 +1,7 @@
 ---
 title: 'NEU1403 XL&#8217;s Math Problem II（数学）'
 layout: post
-permalink: /57
+permalink: /blog/57
 categories:
   - 算法
 tags:

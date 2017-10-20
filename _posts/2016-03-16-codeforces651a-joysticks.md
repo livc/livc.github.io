@@ -1,7 +1,7 @@
 ---
 title: Codeforces651A Joysticks
 layout: post
-permalink: /115
+permalink: /blog/115
 categories:
   - 算法
 ---

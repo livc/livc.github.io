@@ -1,7 +1,7 @@
 ---
 title: Codeforces607B Zuma（区间DP）
 layout: post
-permalink: /79
+permalink: /blog/79
 categories:
   - 算法
 tags:

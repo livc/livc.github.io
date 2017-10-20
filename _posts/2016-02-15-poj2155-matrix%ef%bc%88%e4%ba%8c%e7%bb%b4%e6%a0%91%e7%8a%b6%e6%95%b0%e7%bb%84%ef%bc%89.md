@@ -1,7 +1,7 @@
 ---
 title: POJ2155 Matrix（二维树状数组）
 layout: post
-permalink: /51
+permalink: /blog/51
 categories:
   - 算法
 tags:

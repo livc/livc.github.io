@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛EC-Final L：Multiplication Table（数学）
 layout: post
-permalink: /70
+permalink: /blog/70
 categories:
   - 算法
 tags:

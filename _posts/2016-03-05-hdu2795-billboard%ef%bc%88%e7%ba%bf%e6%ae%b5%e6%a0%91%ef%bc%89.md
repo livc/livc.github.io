@@ -1,7 +1,7 @@
 ---
 title: HDU2795 Billboard（线段树）
 layout: post
-permalink: /84
+permalink: /blog/84
 categories:
   - 算法
 tags:

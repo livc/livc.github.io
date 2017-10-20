@@ -1,7 +1,7 @@
 ---
 title: microRNA学习笔记（四）——microRNA新基因的预测、克隆鉴定及注册
 layout: post
-permalink: /78
+permalink: /blog/78
 categories:
   - 生物信息学
 tags:

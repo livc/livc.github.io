@@ -1,7 +1,7 @@
 ---
 title: POJ3051 Satellite Photographs（DFS水题）
 layout: post
-permalink: /24
+permalink: /blog/24
 categories:
   - 算法
 tags:

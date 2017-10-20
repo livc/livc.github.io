@@ -1,7 +1,7 @@
 ---
 title: HDU1241 Oil Deposits（经典DFS）
 layout: post
-permalink: /15
+permalink: /blog/15
 categories:
   - 算法
 tags:

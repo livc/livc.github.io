@@ -1,7 +1,7 @@
 ---
 title: linux下升级python
 layout: post
-permalink: /143
+permalink: /blog/143
 categories:
   - linux
 ---

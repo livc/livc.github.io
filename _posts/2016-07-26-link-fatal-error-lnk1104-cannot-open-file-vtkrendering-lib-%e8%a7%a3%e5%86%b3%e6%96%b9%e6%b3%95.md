@@ -1,7 +1,7 @@
 ---
 title: 'error LNK1104: cannot open file &#8216;vtkRendering.lib&#8217; 解决方法'
 layout: post
-permalink: /156
+permalink: /blog/156
 categories:
   - vtk
 ---

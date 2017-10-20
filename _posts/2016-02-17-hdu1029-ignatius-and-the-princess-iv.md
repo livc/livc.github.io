@@ -1,7 +1,7 @@
 ---
 title: HDU1029 Ignatius and the Princess IV
 layout: post
-permalink: /55
+permalink: /blog/55
 categories:
   - 算法
 ---

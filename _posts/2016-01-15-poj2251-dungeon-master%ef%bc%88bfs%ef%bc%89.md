@@ -1,7 +1,7 @@
 ---
 title: POJ2251 Dungeon Master（BFS）
 layout: post
-permalink: /27
+permalink: /blog/27
 categories:
   - 算法
 tags:

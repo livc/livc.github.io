@@ -1,7 +1,7 @@
 ---
 title: POJ1961 Period（KMP next）
 layout: post
-permalink: /109
+permalink: /blog/109
 categories:
   - 算法
 tags:

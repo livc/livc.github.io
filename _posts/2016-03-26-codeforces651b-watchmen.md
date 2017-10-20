@@ -1,7 +1,7 @@
 ---
 title: Codeforces651C Watchmen
 layout: post
-permalink: /123
+permalink: /blog/123
 categories:
   - 算法
 tags:

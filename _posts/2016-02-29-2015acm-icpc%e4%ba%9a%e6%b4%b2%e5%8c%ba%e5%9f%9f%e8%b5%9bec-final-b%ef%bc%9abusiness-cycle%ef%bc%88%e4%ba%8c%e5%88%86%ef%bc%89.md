@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛EC-Final B：Business Cycle（二分）
 layout: post
-permalink: /75
+permalink: /blog/75
 categories:
   - 算法
 tags:

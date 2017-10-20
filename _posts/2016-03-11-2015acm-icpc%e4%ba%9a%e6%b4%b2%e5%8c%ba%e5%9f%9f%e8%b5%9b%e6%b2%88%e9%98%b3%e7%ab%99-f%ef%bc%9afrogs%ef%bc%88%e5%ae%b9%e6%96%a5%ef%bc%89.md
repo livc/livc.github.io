@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛沈阳站 F：Frogs（容斥）
 layout: post
-permalink: /104
+permalink: /blog/104
 categories:
   - 算法
 tags:

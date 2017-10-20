@@ -1,7 +1,7 @@
 ---
 title: HDU2602 Bone Collector（01背包）
 layout: post
-permalink: /98
+permalink: /blog/98
 categories:
   - 算法
 tags:

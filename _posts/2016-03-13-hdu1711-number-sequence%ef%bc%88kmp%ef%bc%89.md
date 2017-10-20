@@ -1,7 +1,7 @@
 ---
 title: HDU1711 Number Sequence（KMP）
 layout: post
-permalink: /107
+permalink: /blog/107
 categories:
   - 算法
 tags:

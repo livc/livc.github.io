@@ -1,7 +1,7 @@
 ---
 title: HDU1102 Constructing Roads（最小生成树）
 layout: post
-permalink: /133
+permalink: /blog/133
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Simple description of popular software licenses
 layout: post
-permalink: /152
+permalink: /blog/152
 categories:
   - 转载
 ---

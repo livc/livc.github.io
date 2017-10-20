@@ -1,7 +1,7 @@
 ---
 title: CF GYM 10499J Healthy Recipes（DP）
 layout: post
-permalink: /14
+permalink: /blog/14
 categories:
   - 算法
 tags:

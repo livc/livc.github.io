@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛沈阳站 B：Bazinga（KMP+剪枝）
 layout: post
-permalink: /114
+permalink: /blog/114
 categories:
   - 算法
 tags:

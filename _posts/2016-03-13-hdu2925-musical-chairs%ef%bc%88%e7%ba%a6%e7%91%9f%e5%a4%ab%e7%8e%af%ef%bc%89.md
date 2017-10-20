@@ -1,7 +1,7 @@
 ---
 title: HDU2925 Musical Chairs（约瑟夫环）
 layout: post
-permalink: /108
+permalink: /blog/108
 categories:
   - 算法
 tags:

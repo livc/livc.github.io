@@ -1,7 +1,7 @@
 ---
 title: 'HDU4004 The Frog&#8217;s Games（二分+贪心）'
 layout: post
-permalink: /72
+permalink: /blog/72
 categories:
   - 算法
 tags:

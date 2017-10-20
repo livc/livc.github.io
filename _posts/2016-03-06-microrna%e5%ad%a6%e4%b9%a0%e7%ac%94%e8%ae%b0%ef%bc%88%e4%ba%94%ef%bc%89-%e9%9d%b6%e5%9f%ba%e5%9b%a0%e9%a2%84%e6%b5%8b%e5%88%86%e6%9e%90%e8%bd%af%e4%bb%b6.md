@@ -1,7 +1,7 @@
 ---
 title: microRNA学习笔记（五）——靶基因预测分析软件
 layout: post
-permalink: /88
+permalink: /blog/88
 categories:
   - 生物信息学
 tags:

@@ -1,7 +1,7 @@
 ---
 title: HDU2544 最短路（Dijkstra）
 layout: post
-permalink: /153
+permalink: /blog/153
 categories:
   - 算法
 tags:

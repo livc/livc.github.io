@@ -1,7 +1,7 @@
 ---
 title: POJ3414 Pots（BFS+记忆路径）
 layout: post
-permalink: /34
+permalink: /blog/34
 categories:
   - 算法
 tags:

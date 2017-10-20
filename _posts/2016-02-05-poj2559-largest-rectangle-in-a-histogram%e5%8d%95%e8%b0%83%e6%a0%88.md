@@ -1,7 +1,7 @@
 ---
 title: 'POJ2559 &#038;&#038; POJ2082（单调栈）'
 layout: post
-permalink: /40
+permalink: /blog/40
 categories:
   - 算法
 tags:

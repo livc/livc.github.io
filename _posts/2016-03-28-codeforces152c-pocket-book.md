@@ -1,7 +1,7 @@
 ---
 title: Codeforces152C Pocket Book
 layout: post
-permalink: /125
+permalink: /blog/125
 categories:
   - 算法
 tags:

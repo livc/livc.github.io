@@ -1,7 +1,7 @@
 ---
 title: POJ2484 A Funny Game（博弈）
 layout: post
-permalink: /91
+permalink: /blog/91
 categories:
   - 算法
 tags:

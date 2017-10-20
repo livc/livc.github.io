@@ -1,7 +1,7 @@
 ---
 title: Codeforces185A Plant（规律+快速幂）
 layout: post
-permalink: /64
+permalink: /blog/64
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: microRNA学习笔记（一）——microRNA概述
 layout: post
-permalink: /33
+permalink: /blog/33
 categories:
   - 生物信息学
 tags:

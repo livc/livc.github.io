@@ -1,7 +1,7 @@
 ---
 title: HDU1850 Being a Good Boy in Spring Festival（尼姆博弈）
 layout: post
-permalink: /92
+permalink: /blog/92
 categories:
   - 算法
 tags:

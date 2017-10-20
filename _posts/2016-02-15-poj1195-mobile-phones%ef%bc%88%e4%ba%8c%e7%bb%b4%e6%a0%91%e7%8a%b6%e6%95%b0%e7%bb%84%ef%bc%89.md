@@ -1,7 +1,7 @@
 ---
 title: POJ1195 Mobile phones（二维树状数组）
 layout: post
-permalink: /50
+permalink: /blog/50
 categories:
   - 算法
 tags:

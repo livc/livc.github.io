@@ -1,7 +1,7 @@
 ---
 title: POJ 1611 The Suspects（并查集）
 layout: post
-permalink: /5
+permalink: /blog/5
 categories:
   - 算法
 tags:

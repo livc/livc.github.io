@@ -1,7 +1,7 @@
 ---
 title: 遗传算法（Genetic Algorithm, GA）
 layout: post
-permalink: /167
+permalink: /blog/167
 categories:
   - 算法
 tags:

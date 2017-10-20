@@ -1,7 +1,7 @@
 ---
 title: HDU1757 A Simple Math Problem（矩阵快速幂）
 layout: post
-permalink: /65
+permalink: /blog/65
 categories:
   - 算法
 tags:

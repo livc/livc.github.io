@@ -1,7 +1,7 @@
 ---
 title: HDU2639 Bone Collector II（01背包第k优解）
 layout: post
-permalink: /102
+permalink: /blog/102
 categories:
   - 算法
 tags:

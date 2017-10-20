@@ -1,7 +1,7 @@
 ---
 title: NEU1438 Car race game（树状数组）
 layout: post
-permalink: /58
+permalink: /blog/58
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 【TensorFlow】MNIST For ML Beginners
 layout: post
-permalink: /148
+permalink: /blog/148
 categories:
   - 机器学习
 tags:

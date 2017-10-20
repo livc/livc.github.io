@@ -1,7 +1,7 @@
 ---
 title: HDU1556 Color the ball（树状数组 区间更新）
 layout: post
-permalink: /82
+permalink: /blog/82
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Python模拟登录微博
 layout: post
-permalink: /141
+permalink: /blog/141
 categories:
   - Python
 tags:

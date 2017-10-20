@@ -1,7 +1,7 @@
 ---
 title: POJ1426 Find The Multiple（BFS）
 layout: post
-permalink: /30
+permalink: /blog/30
 categories:
   - 算法
 tags:

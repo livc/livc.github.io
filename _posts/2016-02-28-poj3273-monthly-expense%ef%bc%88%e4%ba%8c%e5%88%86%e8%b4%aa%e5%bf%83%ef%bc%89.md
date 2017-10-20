@@ -1,7 +1,7 @@
 ---
 title: POJ3273 Monthly Expense（二分+贪心）
 layout: post
-permalink: /74
+permalink: /blog/74
 categories:
   - 算法
 tags:

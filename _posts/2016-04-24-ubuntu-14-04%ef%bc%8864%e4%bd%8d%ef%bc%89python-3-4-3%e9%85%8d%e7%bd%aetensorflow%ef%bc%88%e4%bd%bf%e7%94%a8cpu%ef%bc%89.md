@@ -1,7 +1,7 @@
 ---
 title: Ubuntu 14.04（64位）+Python 3.4.3配置TensorFlow（使用CPU）
 layout: post
-permalink: /146
+permalink: /blog/146
 categories:
   - 机器学习
 tags:

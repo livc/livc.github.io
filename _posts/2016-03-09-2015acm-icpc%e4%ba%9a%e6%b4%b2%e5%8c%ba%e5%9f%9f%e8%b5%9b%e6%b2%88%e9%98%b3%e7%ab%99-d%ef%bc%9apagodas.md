@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛沈阳站 D：Pagodas
 layout: post
-permalink: /94
+permalink: /blog/94
 categories:
   - 算法
 tags:

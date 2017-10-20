@@ -1,7 +1,7 @@
 ---
 title: POJ2406 Power Strings（KMP next）
 layout: post
-permalink: /110
+permalink: /blog/110
 categories:
   - 算法
 tags:

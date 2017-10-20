@@ -1,7 +1,7 @@
 ---
 title: HDU1087 Super Jumping! Jumping! Jumping!（DP）
 layout: post
-permalink: /87
+permalink: /blog/87
 categories:
   - 算法
 tags:

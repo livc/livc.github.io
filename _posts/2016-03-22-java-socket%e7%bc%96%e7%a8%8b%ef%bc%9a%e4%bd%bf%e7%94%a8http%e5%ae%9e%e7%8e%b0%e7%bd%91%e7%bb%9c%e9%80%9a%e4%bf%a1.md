@@ -1,7 +1,7 @@
 ---
 title: JAVA Socket编程：使用HTTP实现网络通信
 layout: post
-permalink: /120
+permalink: /blog/120
 categories:
   - Java
 tags:

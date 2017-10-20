@@ -1,7 +1,7 @@
 ---
 title: 使用V2EX的CDN解决Gravatar加载慢问题
 layout: post
-permalink: /159
+permalink: /blog/159
 categories:
   - WordPress
 ---

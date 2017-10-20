@@ -1,7 +1,7 @@
 ---
 title: HDU1024 Max Sum Plus Plus（DP）
 layout: post
-permalink: /53
+permalink: /blog/53
 categories:
   - 算法
 tags:

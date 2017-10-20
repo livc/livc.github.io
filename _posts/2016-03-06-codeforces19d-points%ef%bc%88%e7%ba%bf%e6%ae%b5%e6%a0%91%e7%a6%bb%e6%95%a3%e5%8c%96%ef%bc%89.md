@@ -1,7 +1,7 @@
 ---
 title: Codeforces19D Points（线段树+离散化）
 layout: post
-permalink: /86
+permalink: /blog/86
 categories:
   - 算法
 tags:

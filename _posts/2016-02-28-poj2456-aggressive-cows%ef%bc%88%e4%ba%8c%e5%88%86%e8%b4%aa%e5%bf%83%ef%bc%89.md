@@ -1,7 +1,7 @@
 ---
 title: POJ2456 Aggressive cows（二分+贪心）
 layout: post
-permalink: /73
+permalink: /blog/73
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Big-O Cheat Sheet
 layout: post
-permalink: /155
+permalink: /blog/155
 categories:
   - 转载
 ---

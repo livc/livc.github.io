@@ -1,7 +1,7 @@
 ---
 title: JAVA Socket编程：使用FTP实现网络通信
 layout: post
-permalink: /105
+permalink: /blog/105
 categories:
   - Java
 tags:

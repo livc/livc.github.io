@@ -1,7 +1,7 @@
 ---
 title: HDU1171 Big Event in HDU（01背包）
 layout: post
-permalink: /95
+permalink: /blog/95
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛EC-Final D：Change
 layout: post
-permalink: /69
+permalink: /blog/69
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: HDU2266 How Many Equations Can You Find（DFS）
 layout: post
-permalink: /16
+permalink: /blog/16
 categories:
   - 算法
 tags:

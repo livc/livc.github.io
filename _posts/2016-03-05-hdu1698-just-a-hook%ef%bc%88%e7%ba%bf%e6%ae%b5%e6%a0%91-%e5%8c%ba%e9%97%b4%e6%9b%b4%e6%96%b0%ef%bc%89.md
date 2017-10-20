@@ -1,7 +1,7 @@
 ---
 title: HDU1698 Just a Hook（线段树 区间更新）
 layout: post
-permalink: /83
+permalink: /blog/83
 categories:
   - 算法
 tags:

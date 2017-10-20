@@ -1,7 +1,7 @@
 ---
 title: UVALive7484 Association for the Country of Mububa（DP）
 layout: post
-permalink: /122
+permalink: /blog/122
 categories:
   - 算法
 tags:

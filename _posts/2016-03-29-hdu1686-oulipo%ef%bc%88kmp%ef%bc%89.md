@@ -1,7 +1,7 @@
 ---
 title: HDU1686 Oulipo（KMP）
 layout: post
-permalink: /128
+permalink: /blog/128
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: POJ3126 Prime Path（BFS）
 layout: post
-permalink: /31
+permalink: /blog/31
 categories:
   - 算法
 tags:

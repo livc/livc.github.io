@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛EC-Final A：Boxes and Balls
 layout: post
-permalink: /67
+permalink: /blog/67
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: POJ1679 The Unique MST（次小生成树）
 layout: post
-permalink: /134
+permalink: /blog/134
 categories:
   - 算法
 tags:

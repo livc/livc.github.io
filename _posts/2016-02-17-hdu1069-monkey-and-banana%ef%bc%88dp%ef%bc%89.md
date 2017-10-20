@@ -1,7 +1,7 @@
 ---
 title: HDU1069 Monkey and Banana（DP）
 layout: post
-permalink: /56
+permalink: /blog/56
 categories:
   - 算法
 tags:

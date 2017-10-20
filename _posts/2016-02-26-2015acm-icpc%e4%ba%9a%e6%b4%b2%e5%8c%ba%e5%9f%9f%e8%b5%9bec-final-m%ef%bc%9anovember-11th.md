@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛EC-Final M：November 11th
 layout: post
-permalink: /68
+permalink: /blog/68
 categories:
   - 算法
 tags:

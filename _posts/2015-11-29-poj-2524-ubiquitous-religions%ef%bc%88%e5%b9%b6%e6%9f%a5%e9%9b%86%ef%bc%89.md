@@ -1,7 +1,7 @@
 ---
 title: POJ 2524 Ubiquitous Religions（并查集）
 layout: post
-permalink: /6
+permalink: /blog/6
 categories:
   - 算法
 tags:

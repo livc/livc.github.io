@@ -1,7 +1,7 @@
 ---
 title: NEU1681 The Singles（数学）
 layout: post
-permalink: /42
+permalink: /blog/42
 categories:
   - 算法
 tags:

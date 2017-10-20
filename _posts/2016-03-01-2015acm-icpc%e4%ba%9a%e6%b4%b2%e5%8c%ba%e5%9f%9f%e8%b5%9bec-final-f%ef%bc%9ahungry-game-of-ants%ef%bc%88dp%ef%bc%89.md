@@ -1,7 +1,7 @@
 ---
 title: 2015ACM-ICPC亚洲区域赛EC-Final F：Hungry Game of Ants（DP）
 layout: post
-permalink: /76
+permalink: /blog/76
 categories:
   - 算法
 tags:

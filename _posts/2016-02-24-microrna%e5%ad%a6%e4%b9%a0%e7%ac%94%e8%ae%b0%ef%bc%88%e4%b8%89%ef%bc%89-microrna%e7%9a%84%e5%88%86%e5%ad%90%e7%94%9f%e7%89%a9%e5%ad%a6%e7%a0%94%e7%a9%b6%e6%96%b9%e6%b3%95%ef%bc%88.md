@@ -1,7 +1,7 @@
 ---
 title: microRNA学习笔记（三）——microRNA的分子生物学研究方法
 layout: post
-permalink: /61
+permalink: /blog/61
 categories:
   - 生物信息学
 tags:

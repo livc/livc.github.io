@@ -1,7 +1,7 @@
 ---
 title: HDU 5584 LCM Walk（数学）
 layout: post
-permalink: /9
+permalink: /blog/9
 categories:
   - 算法
 tags:

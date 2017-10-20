@@ -1,7 +1,7 @@
 ---
 title: Codeforces631B Print Check
 layout: post
-permalink: /80
+permalink: /blog/80
 categories:
   - 算法
 ---

@@ -1,7 +1,7 @@
 ---
 title: HDU5651 xiaoxin juju needs help（逆元）
 layout: post
-permalink: /124
+permalink: /blog/124
 categories:
   - 算法
 tags:

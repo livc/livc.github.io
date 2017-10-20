@@ -1,7 +1,7 @@
 ---
 title: POJ3461 Oulipo（KMP）
 layout: post
-permalink: /111
+permalink: /blog/111
 categories:
   - 算法
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Codeforces620F Xors on Segments（位运算模拟）
 layout: post
-permalink: /44
+permalink: /blog/44
 categories:
   - 算法
 tags:

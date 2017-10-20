@@ -1,7 +1,7 @@
 ---
 title: HDU1213 How Many Tables（并查集）
 layout: post
-permalink: /131
+permalink: /blog/131
 categories:
   - 算法
 tags:

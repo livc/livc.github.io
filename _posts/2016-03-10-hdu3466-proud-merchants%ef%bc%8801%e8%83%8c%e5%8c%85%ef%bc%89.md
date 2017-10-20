@@ -1,7 +1,7 @@
 ---
 title: HDU3466 Proud Merchants（01背包）
 layout: post
-permalink: /103
+permalink: /blog/103
 categories:
   - 算法
 tags:

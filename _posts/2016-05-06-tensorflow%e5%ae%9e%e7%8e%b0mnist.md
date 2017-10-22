@@ -3,7 +3,7 @@ title: 【TensorFlow】MNIST For ML Beginners
 layout: post
 permalink: /blog/148
 categories:
-  - 机器学习
+  - MachineLearning
 tags:
   - MNIST
   - tensorflow

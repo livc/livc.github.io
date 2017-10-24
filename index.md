@@ -6,7 +6,7 @@ title: Zhao Li
 # Experience
 
 - Research Intern, [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), Baidu Research, Feb. 2017 - Sep. 2017
-- Recommendation Algorithm Intern, Baidu, Oct. 2016 – Jan. 2017
+- Recommendation Algorithm Intern, Baidu, Oct. 2016 - Jan. 2017
 
 # Awards
 

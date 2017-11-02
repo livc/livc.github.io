@@ -23,7 +23,7 @@ title: Zhao Li
 
 ## Contact
 
-- Email: [zhaoli@protonmail.com](mailto:zhaoli@protonmail.com)
+- Email: zhaoli[](../img/@.gif)protonmail.com
 - Tel: +1 (414) 944-1225
 - Office: Room 1A-306, SIST Building, ShanghaiTech University
 

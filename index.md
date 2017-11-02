@@ -32,7 +32,6 @@ title: Zhao Li
 Last update: Oct. 2017
 
 
-# 邮箱地址复制反转
 <script type="text/javascript">
 var reversedEmail = document.getElementById("email").innerText;
 document.getElementById("email").addEventListener('copy', function(e) {

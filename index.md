@@ -3,6 +3,8 @@ layout: page_without_author
 title: Zhao Li
 ---
 
+[Profile Card](https://about.me/zhao_li)
+
 ## Experience
 
 - Research Intern, [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), Baidu Research, Feb. 2017 - Sep. 2017

@@ -3,7 +3,7 @@ title: About me
 layout: page
 ---
 
-INTJer，常用 ID 为 livc 或 livc95（livc 是我姓名的双拼）：<https://about.me/zhao_li>
+INTJer
 
 ## 个人兴趣
 

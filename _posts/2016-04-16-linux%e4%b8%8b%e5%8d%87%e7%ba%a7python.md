@@ -3,7 +3,7 @@ title: linux下升级python
 layout: post
 permalink: /blog/143
 categories:
-  - linux
+  - Linux
 ---
 之所以说升级python是因为系统中会有自带的python，不过版本很低，在终端中输入python可以查看，我的是2.7。
 

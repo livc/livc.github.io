@@ -3,7 +3,7 @@ layout: page_without_author
 title: Zhao Li
 ---
 
-[Profile Card](https://about.me/zhao_li)
+[[GitHub](https://github.com/livc)] [[LinkedIn](https://www.linkedin.com/in/zhao-li-655254106/)] [[Twitter](https://twitter.com/livc95)] [[Weibo](https://weibo.com/livc95)]
 
 ## Experience
 

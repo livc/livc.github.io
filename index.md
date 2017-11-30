@@ -1,22 +1,22 @@
 ---
 layout: page_without_author
-title: Zhao Li
+title: Zhao Li（李钊）
 ---
 
 [[GitHub](https://github.com/livc)] [[LinkedIn](https://www.linkedin.com/in/zhao-li-655254106/)] [[Twitter](https://twitter.com/livc95)] [[Weibo](https://weibo.com/livc95)]
 
 ## Experience
 
-- Research Intern, [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/), Baidu Research, Feb. 2017 - Sep. 2017
+- Research Intern, Institute of Deep Learning([IDL](http://research.baidu.com/institute-of-deep-learning/)), Baidu Research, Feb. 2017 - Sep. 2017
 - Recommendation Algorithm Intern, Baidu, Oct. 2016 - Jan. 2017
 
 ## Awards
 
-- AI learning project excellent lecturer of Baidu Institute of Technology, 2017
+- Excellent lecturer of the AI open class in Baidu Institute of Technology([BIT](http://bit.baidu.com)), [Curriculum Link](http://bit.baidu.com/course/detail/id/176/column/117.html)(Chinese), 2017
 - Best Intern in Institute of Deep Learning of Q2, Baidu, 2017
 - Principal Medal of Innovation and Entrepreneurship(1/10), Northeastern University, 2017
 - Gold Medal, International Genetically Engineered Machine ([iGEM](http://igem.org/Main_Page)) Competition, 2016
-- Meritorious Winner, International Mathematical Contest in Modeling, 2016
+- Meritorious Winner, International Mathematical Contest in Modeling([MCM](https://www.comap.com/undergraduate/contests/mcm/)), 2016
 
 ## Education
 

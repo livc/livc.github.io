@@ -26,7 +26,7 @@ title: Zhao Li（李钊）
 ## Contact
 
 - Email: <span id="email" style="unicode-bidi:bidi-override; direction: rtl;">moc.liamnotorp@iloahz</span>
-- Tel: +1 (414) 944-1225
+- Telegram: livc95
 - Office: Room 1A-306, SIST Building, ShanghaiTech University
 
 ---

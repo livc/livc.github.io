@@ -12,7 +12,7 @@ title: Zhao Li（李钊）
 
 ## Awards
 
-- Excellent lecturer of the AI open class in Baidu Institute of Technology([BIT](http://bit.baidu.com)), [Curriculum Link](http://bit.baidu.com/course/detail/id/176/column/117.html)(Chinese), 2017
+- Excellent lecturer of the AI open online course in Baidu Institute of Technology([BIT](http://bit.baidu.com)), [Course Link](http://bit.baidu.com/course/detail/id/176/column/117.html)(Chinese), 2017
 - Best Intern in Institute of Deep Learning of Q2, Baidu, 2017
 - Principal Medal of Innovation and Entrepreneurship(1/10), Northeastern University, 2017
 - Gold Medal, International Genetically Engineered Machine ([iGEM](http://igem.org/Main_Page)) Competition, 2016

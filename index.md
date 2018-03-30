@@ -25,7 +25,7 @@ title: Zhao Li（李钊）
 
 ## Contact
 
-- Email: <span id="email" style="unicode-bidi:bidi-override; direction: rtl;">moc.liamnotorp@iloahz</span>
+- Email: <span id="email" style="unicode-bidi:bidi-override; direction: rtl;">em.mp@iloahz</span>
 - Office: Room 1A-306, SIST Building, ShanghaiTech University
 
 ---

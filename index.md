@@ -7,7 +7,7 @@ title: Zhao Li（李钊）
 
 ## Experience
 
-- Research Intern, [Huobi](https://www.huobi.com) Blockchain Research, Jun. 2018 - Sep. 2018
+- Research Intern, [Huobi](https://www.huobi.com) Blockchain Research, Jun. 2018 - Aug. 2018
 - Research Intern, Institute of Deep Learning([IDL](http://research.baidu.com/institute-of-deep-learning/)), Baidu Research, Feb. 2017 - Sep. 2017
 - Recommendation Algorithm Intern, Baidu, Oct. 2016 - Jan. 2017
 

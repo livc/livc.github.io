@@ -8,16 +8,16 @@ title: Zhao Li（李钊）
 ## Experience
 
 - Research Intern, [Huobi](https://www.huobi.com) Blockchain Research, Jun. 2018 - Aug. 2018
-- Research Intern, Institute of Deep Learning([IDL](http://research.baidu.com/institute-of-deep-learning/)), Baidu Research, Feb. 2017 - Sep. 2017
+- Research Intern, Institute of Deep Learning ([IDL](http://research.baidu.com/institute-of-deep-learning/)), Baidu Research, Feb. 2017 - Sep. 2017
 - Recommendation Algorithm Intern, Baidu, Oct. 2016 - Jan. 2017
 
 ## Awards
 
-- Excellent lecturer of the AI open online course in Baidu Institute of Technology([BIT](http://bit.baidu.com)), [Course Link](http://bit.baidu.com/course/detail/id/176/column/117.html)(Chinese), 2017
+- Excellent lecturer of the AI open online course in Baidu Institute of Technology ([BIT](http://bit.baidu.com)), [Course Link](http://web.archive.org/web/20180318104307/http://bit.baidu.com:80/course/detail/id/176/column/117.html) (Chinese), 2017
 - Best Intern in Institute of Deep Learning of Q2, Baidu, 2017
-- Principal Medal of Innovation and Entrepreneurship(1/10), Northeastern University, 2017
+- Principal Medal of Innovation and Entrepreneurship (1/10), Northeastern University, 2017
 - Gold Medal, International Genetically Engineered Machine ([iGEM](http://igem.org/Main_Page)) Competition, 2016
-- Meritorious Winner(First Prize), International Mathematical Contest in Modeling([MCM](https://www.comap.com/undergraduate/contests/mcm/)), 2016
+- Meritorious Winner (First Prize), International Mathematical Contest in Modeling ([MCM](https://www.comap.com/undergraduate/contests/mcm/)), 2016
 
 ## Education
 

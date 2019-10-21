@@ -8,9 +8,9 @@
   <channel>
     <title>{{ site.author }}</title>
     <atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
-    <link>https://livc.io</link>
+    <link>https://arminli.com</link>
     <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
-    <webMaster>livc@outlook.com</webMaster>
+    <webMaster>arminli@icloud.com</webMaster>
     {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
